@@ -1,0 +1,21 @@
+﻿14 EKİM 2026 TARİHLİ TOPLANTI TUTANAĞI
+Toplantı Konusu: Fizibilite Raporu ve Haftalık Yapılacaklar
+Görüşülen Konular ve Alınan Kararlar
+
+
+1. Müşteri tutanakları github’a yüklenecek.
+2. Amaç, kapsam içi ve kapsam dışı ve sonuç maddeleri hep birlikte yazılacak.
+3. Projenin kapsam içi-dışı sınırları belirlendi.
+4. Fikir önerileri yapıldı(Elif).
+5. Görev paylaşımı yapıldı, pazartesiye kadar herkes kendi bölümünü tamamlayıp gruba atacak.
+6. İlk iki hafta için Samet grup lideri olarak atandı.
+7. Proje Tanımı - Özge
+8. Müşteri ve paydaşlar - Sude
+9. Amaç, kapsam içi ve dışı - birlikte
+10. Faydalar - Esra
+11. Üst düzey gereksinimler - Ayşe Sıla
+12. Teknik Fizibilite - Samet
+13. Süreç seçimi - Elif
+14. Kilometre taşları - Aybala
+15. Riskler ve yanıtları - Roaa
+16. Sonuç ve karar - birlikte olmak üzere görev dağılımı yapıldı.

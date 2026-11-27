@@ -1,0 +1,17 @@
+﻿21.10.2026 TARİHLİ TOPLANTI TUTANAĞI
+Toplantı Konusu: Fizibilite tamamlanması ve Bölüm Ayrımı
+Görüşülen Konular ve Alınan Kararlar
+1. Fizibilite raporundaki bölümlerin uyumluluğu kontrol edildi. Eksik kısımlar takım ile konuşulup tamamlandı. 
+2. Proje görev dağılımı yapıldı:
+3. Sude Ciğer: Frontend
+4. Roaa Salem: Frontend
+5. Aybala Gökçe Demir: Backend
+6. Esra Acar: Backend
+7. Ayşe Sıla Doğan: Haberleşme ve Donanım
+8. Özge Candan: Haberleşme ve Donanım
+9. Samet Arat: Veritabanı
+10. Elif Naz Bahçeli: Veritabanı
+11. Haftayaki toplantı çarşamba, online ve akşam olmasına karar verildi.
+12. Haftalık sunum hazırlandı.
+13. GitHub’daki eklenmesi gereken kısımlar eklenecek, fizibilite raporunun “Sonuç ve Fizibilite Kararı” bölümü tamamlanacak.
+14. Haftaya kadar herkes kendi bölümüyle ilgili araştırma yapacak.

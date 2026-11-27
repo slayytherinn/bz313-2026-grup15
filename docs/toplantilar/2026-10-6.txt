@@ -1,0 +1,12 @@
+﻿6 EKİM 2026 TARİHLİ TOPLANTI TUTANAĞI
+Toplantı Konusu: Yazılım projesinin planlanması 
+Görüşülen Konular ve Alınan Kararlar
+
+
+1. Kroren firması ile gerçekleştirilen görüşmenin ardından proje süreci ve olası iş birliği hakkında detaylar değerlendirildi. Müşteri onay formu imzalandı. Projenin tamamlanmasından yaklaşık üç ay sonra uygun görülmesi durumunda satış yapılabileceği belirtildi.
+2. Projenin adı ve kapsamı hakkında öğretim elemanına e-posta gönderildi.
+3. Proje için GitHub deposu oluşturuldu ve ekip üyeleri depoya eklendi. Depodaki eksiklerin incelenerek tamamlanmasına karar verildi.
+4. Ekip içindeki görevlerin ve proje sürecinin takibi amacıyla Trello düzenlendi.
+5. Projeye ilişkin sunum hazırlandı ve iletildi.
+6. Haftalık toplantıların çarşamba gününden itibaren yapılması kararlaştırıldı. Toplantılara katılımın Excel tablosu üzerinden takip edilmesine karar verildi.
+7. Toplantılara katılmayan ekip üyelerinin Kroren firması ile görüşmeye katılmalarının planlanmasına karar verildi.
