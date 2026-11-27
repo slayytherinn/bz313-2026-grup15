@@ -1,0 +1,10 @@
+﻿21.11.2026 TARİHLİ TOPLANTI TUTANAĞI
+Toplantı Konusu: Arayüz tasarımlarının değerlendirilmesi ve gereksinim raporu planlaması
+Görüşülen Konular ve Alınan Kararlar
+1. Ekip üyelerinin Balsamiq'te hazırladığı örnek ekran tasarımları incelendi. Müşterinin QR menü üzerinden sipariş verme akışı ve tasarımda dikkate alınan erişilebilirlik özellikleri değerlendirildi.
+2. Müşteri arayüzü ile personelin kullanacağı arayüz için tasarlanacak ekranlar ekip üyeleri arasında paylaştırıldı. Ekranların 25.11.2026 saat 13.00'e kadar Balsamiq'te tasarlanıp tamamlanmasına ve tek bir tasarımda birleştirilmesine karar verildi.
+3. Gereksinim raporu için çarşamba ya da perşembe günü bir toplantı yapılmasına karar verildi. Bu toplantıya kadar her ekip üyesinin gereksinim raporunu okuması kararlaştırıldı.
+4. Daha önce ekip üyelerine paylaştırılan 15 kullanıcı hikâyesinin gereksinim raporu toplantısına kadar yazılmasına karar verildi.
+5. Müşteri ile görüşmeye katılacak ekip üyelerinin gereksinim raporu toplantısında belirlenmesine karar verildi.
+6. Bu haftanın Grup Dakikası sunumunu Aybala Gökçe Demir'in yapmasına karar verildi.
+7. Önümüzdeki iki hafta boyunca ekip liderliği görevini Esra Acar'ın üstlenmesine karar verildi.

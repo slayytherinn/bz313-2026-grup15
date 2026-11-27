@@ -1,0 +1,11 @@
+﻿28 EYLÜL 2026 TARİHLİ TOPLANTI TUTANAĞI
+Toplantı Konusu: Müşteri adaylarının belirlenmesi 
+
+
+Görüşülen Konular ve Alınan Kararlar
+
+
+1. Proje kapsamında öncelikli bölgenin Kayseri olmasına karar verildi. Potansiyel müşteri adayları olarak Mobilyacılar, Toptancı/Grosslar, Spor salonları, Monet kasiyer masa takip sistemi, Mesai QR sistemi, Bilişim Akademisi, S Clinic / Klinikler ve Emlakçılar belirlendi.
+2. Teknopark ve Organize Sanayi Bölgesi'ndeki firmalarla mail yoluyla iletişime geçilmesi kararlaştırıldı.
+3. Sürecin takibi ve organizasyonu için Trello üzerinden görev dağılım panosu, Excel üzerinden yoklama listesi, kod yönetimi için GitHub Reposu kullanılmasına karar verildi.
+4. Rutin toplantı gün ve saatinin, müşteri kesinleştikten sonra belirlenmesi kararlaştırıldı.
